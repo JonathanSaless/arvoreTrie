@@ -1,4 +1,4 @@
-# arvoreTrie
+# Árvore Trie
 Projeto Final
 
 Relatório do Projeto
