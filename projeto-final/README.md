@@ -1,5 +1,5 @@
-# Projeto de Algoritimos 1
-Códigos implementados na disciplina de Projeto de Algoritimos 1
+# arvoreTrie
+Projeto Final
 
 Relatório do Projeto
 
